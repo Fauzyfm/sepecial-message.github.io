@@ -1,7 +1,7 @@
 const quote = {
     "quote1" : "Semangat Berliana! kamu pasti bisa!",
     "quote2" : "Hidupmu tidak akan pernah bahagia jika terus-menerus menunggu dibahagiakan.",
-    "quote3" : "I Love You 3000!",
+    "quote3" : "",
     "quote4" : "You're my favorite part of my life.",
     "quote5" : "Yuk bisa yuk!",
     "quote6" : "Jangan Sedih terus;(",
