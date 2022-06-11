@@ -34,21 +34,6 @@ const quote = {
     "quote33" : ";)",
     "quote34" : "(O_O)",
     "quote35" : "fsdkanfjbwqbfiuenqjbqoflntbqfijq.",
-    "quote36" : "",
-    "quote37" : "",
-    "quote38" : "",
-    "quote39" : "",
-    "quote40" : "",
-    "quote41" : "",
-    "quote42" : "",
-    "quote43" : "",
-    "quote44" : "",
-    "quote45" : "",
-    "quote46" : "",
-    "quote47" : "",
-    "quote48" : "",
-    "quote49" : "",
-    "quote50" : "",
 
 
 }
