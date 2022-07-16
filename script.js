@@ -34,6 +34,15 @@ const quote = {
     "quote33" : ";)",
     "quote34" : "(O_O)",
     "quote35" : "fsdkanfjbwqbfiuenqjbqoflntbqfijq.",
+    "quote36" : "There are too many reason why i love you, but more reasons why i don't deserve you.",
+    "quote37" : "Aku gak se-ganteng itu buat dipandang fisik, aku gak se worth-it itu buat kamu miliki, aku gak seromantis itu buat nge treat kamu like a queen, aku ga se-perfect cowo idaman kamu. Tapi aku tulus dan pasti siap untuk ada kapanpun kalo kamu lagi diposisi terendah, im not going anywhere.",
+    "quote38" : "Semuanya punya tujuan, ya meskipun tidak menyenangkan setidaknya mendewasakan (16-07-2022).",
+    "quote39" : "Sesingkat apapun cerita kemarin, senang bisa mengenalmu sedekat itu, take care yaa, see you (16-07-2022).",
+    "quote40" : "Secapek apapun kamu dengan dunia, jangan pernah nyerah hanya karena keadaan ya (16-07-2022).",
+    "quote41" : "Kau masih menjadi tokoh utama dihatiku (16-07-2022).",
+    "quote42" : "Aku mencintai kamu dengan sadar, dan akan terus mencintai mu dengan sabar (16-07-2022).",
+    "quote43" : "Terimakasih karena telah membolehkan aku untuk mencintai mu (16-07-2022)."
+
 
 
 }
