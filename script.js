@@ -41,7 +41,7 @@ const quote = {
     "quote40" : "Secapek apapun kamu dengan dunia, jangan pernah nyerah hanya karena keadaan ya (16-07-2022).",
     "quote41" : "Kau masih menjadi tokoh utama dihatiku (16-07-2022).",
     "quote42" : "Aku mencintai kamu dengan sadar, dan akan terus mencintai mu dengan sabar (16-07-2022).",
-    "quote43" : "Terimakasih karena telah membolehkan aku untuk mencintai mu (16-07-2022)."
+    "quote43" : "Terimakasih karena telah membolehkan aku untuk mencintai mu (16-07-2022).",
 
 
 
