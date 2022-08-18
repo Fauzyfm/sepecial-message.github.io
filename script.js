@@ -42,7 +42,7 @@ const quote = {
     "quote41" : "Kau masih menjadi tokoh utama dihatiku (16-07-2022).",
     "quote42" : "Aku mencintai kamu dengan sadar, dan akan terus mencintai mu dengan sabar (16-07-2022).",
     "quote43" : "Terimakasih karena telah membolehkan aku untuk mencintai mu (16-07-2022).",
-
+    "quote44" : "Aku suka semuanya tentang kamu, but loving u is pain. dan kamu ga bisa balas perasaan aku. its okay karena perasaan gabisa dipaksa. Kamu yang aku cintai secara tiba-tiba. see u  in another time, be happy."
 
 
 }
